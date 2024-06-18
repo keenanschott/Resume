@@ -72,4 +72,4 @@
 
 **Technologies** | Linux, React, Node, Bootstrap, JUnit, REST APIs, NumPy, PostgreSQL, MySQL, MongoDB, Ollama
 
-**Developer Tools** | Git, GitHub, Gitlab, Docker, Jenkins, Agile, CI/CD
+**Developer Tools** | Git, GitHub, Gitlab, Docker, Jenkins, Agile, CI/CD, Unit Tests
