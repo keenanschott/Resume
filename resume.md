@@ -54,8 +54,8 @@
 
 ## Projects
 
-**[Mines HSPC](https://keenanschott.com/portfolio/#project-hspc) | Full-Stack Development**<span class="spacer"></span>*Jan 2024 – Apr 2024*
-- Formulated a [problem](https://mines-hspc.kattis.com/contests/mines-hspc24/problems/nostragglers), composed the problem statement using <strong>LaTeX</strong>, designed and validated its inputs using <strong>Python</strong>, and devised model solutions for the annual Mines High School Programming Competition
+**[Mines High School Programming Competition](https://keenanschott.com/portfolio/#project-hspc) | Full-Stack Development**<span class="spacer"></span>*Jan 2024 – Apr 2024*
+- Formulated a [problem](https://mines-hspc.kattis.com/contests/mines-hspc24/problems/nostragglers), composed the problem statement using <strong>LaTeX</strong>, designed and validated its inputs using <strong>Python</strong>, and devised model solutions for the annual competition
 
 **[CS Curriculum Flowchart](https://keenanschott.com/portfolio/#project-cs-curriculum-flowchart) | Full-Stack Development**<span class="spacer"></span>*Jul 2023 – Aug 2023*
 - Harnessed <strong>JavaScript</strong>, <strong>React</strong>, and <strong>PostgreSQL</strong> to provide students with an engaging tool for visually interlinking courses within a dynamic flowchart as an alternative to university-provided, static flowcharts
